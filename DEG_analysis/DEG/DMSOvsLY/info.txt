@@ -1,0 +1,5 @@
+Si on additionne les résultats de DMSO_1dpa vs LY_1dpa et DMSO_2dpa vs LY_2dpa et qu'on les compare avec DMSOvsLY, on obtient:
+
+1306 gènes communs
+121 gènes non présent dans DMSOvsLY mais présent dans une des deux autres conditions
+1253 gènes présent uniquement dans la condition DMSOvsLY

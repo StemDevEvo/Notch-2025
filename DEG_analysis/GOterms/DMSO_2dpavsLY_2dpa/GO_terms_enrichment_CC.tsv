@@ -1,0 +1,3 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+GO:0005615	GO:0005615	extracellular space	42/254	428/8052	2.6859059130537e-11	8.80977139481613e-09	8.39699006502051e-09	Prss42/Spint3/Moxd1/Serpinb1a/Manf/Cpa2/Bsph1/Wfikkn2/Svep1/Amy1/Pon1/Pnliprp1/Ctsl/Sdcbp/Wfdc18/Col12a1/Reg1/Lbp/Prss48/Crisp2/Lipi/Susd2/Col14a1/Cd109/Hspa8/Plg/Mmp7/Ctrl/Ctsll3/Cstb/Cela2a/Crispld1/Cubn/Slit1/Bhmt/Pdia4/Kars/Klk8/Pcsk9/Vwc2l/Myoc/Gp1ba	42
+GO:0034663	GO:0034663	endoplasmic reticulum chaperone complex	5/254	12/8052	1.98359773606996e-05	0.00325310028715473	0.00310067646111988	Hyou1/Hspa5/Ppib/Hsp90b1/Pdia4	5
