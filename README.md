@@ -6,4 +6,7 @@ This repository contain the code used to generate the RNAseq analysis from Bidea
 Loïc Bideau, Loeiza Baduel, Gabriel Krasovec, Caroline Dalle, Ombeline Lamer, Mélusine Nicolas, Alexandre Couëtoux, Corinne Blugeon, Louis Paré, Michel Vervoort, Pierre Kerner, Eve Gazave
 bioRxiv 2025.03.09.642222; doi: https://doi.org/10.1101/2025.03.09.642222 
 
-It is composed of two parts, the `Mapping` folder containing the script to obtain the count tables from the reference transcriptome. The second part `DEG_analysis` contains the code and results for the differentially expressed genes analysis.
+It is composed of two parts, the `Mapping` folder containing the script to obtain the count tables from the Platynereis reference transcriptome from Paré et al., 2023. 
+Paré, L., Bideau, L., Baduel, L. et al. Transcriptomic landscape of posterior regeneration in the annelid Platynereis dumerilii. BMC Genomics 24, 583 (2023). https://doi.org/10.1186/s12864-023-09602-z
+
+The second part `DEG_analysis` contains the code and results for the differentially expressed genes analysis.
