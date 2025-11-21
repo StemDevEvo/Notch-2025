@@ -12,3 +12,5 @@ It is composed of two parts, the `Mapping` folder containing the script to obtai
 Paré, L., Bideau, L., Baduel, L. et al. Transcriptomic landscape of posterior regeneration in the annelid Platynereis dumerilii. BMC Genomics 24, 583 (2023). https://doi.org/10.1186/s12864-023-09602-z
 
 The second part `DEG_analysis` contains the code and results for the differentially expressed genes analysis.
+
+The original confocal and bright field images have been deposited at the BioImage Archive with accession number S-BIAD2428.
