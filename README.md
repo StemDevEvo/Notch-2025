@@ -13,6 +13,6 @@ Paré, L., Bideau, L., Baduel, L. et al. Transcriptomic landscape of posterior r
 
 The second part `DEG_analysis` contains the code and results for the differentially expressed genes analysis.
 
-This repository is available on Zenodo DOI 10.5281/zenodo.18341641
+This repository is available on Zenodo [DOI 10.5281/zenodo.18341641](https://zenodo.org/records/18341642)
 
 The original confocal and bright field images have been deposited at the BioImage Archive with accession number S-BIAD2428.
